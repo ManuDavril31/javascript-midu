@@ -38,3 +38,8 @@ console.log(sumar(2, 2));
 function restar(a, b) {
   return a - b;
 }
+
+
+//https://www.youtube.com/watch?v=YLvT1ELnaX4&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7&index=2&ab_channel=midudev
+
+//minuto 40
